@@ -1,45 +1,21 @@
 # SCT_DS_4
 Power BI Project
-This repository contains the Power BI project file DATA ANALYSIS.pbit. This project is designed for data analysis and visualization. It includes a pre-built data model, report layouts, and various static resources to provide a comprehensive and visually appealing dashboard.
+This repository contains a Power BI project template (.pbit) designed for data analysis and visualization. The project file, DATA ANALYSIS.pbit, acts as a blueprint for a complete report and is ready to be connected to your data source.
 
 Project Contents
-The DATA ANALYSIS.pbit file is a Power BI Template file. The project includes the following key components:
+The project file includes a variety of pre-built components to help you get started quickly and ensure a consistent, professional design.
 
-[cite_start]
+Data Model Schema: A pre-designed data model schema is included, which defines the relationships between data tables.
 
-Data Model Schema: A pre-designed schema for the data model is included, which defines the relationships and structure of the data.   
+Report Layout: The template features a structured report layout with organized pages and visual elements.
 
-[cite_start]
-
-Diagram Layout: The project contains a specific diagram layout, which organizes the visual elements of the report.   
-
-[cite_start]
-
-Report Layout: A defined report layout is present, structuring the pages and visualizations.   
-
-[cite_start]
-
-Settings and Metadata: The project includes various settings and metadata to configure the report's behavior and properties.   
-
-Static Resources: Several images are used to enhance the visual design of the report. These resources include:
-
-[cite_start]A background image: 
-
-Background_For_Power_BI_Projec7064106982822445.jpg    
-
-[cite_start]Vehicle-related icons: 
-
-Van26682277097220586.png, Car5219880850439849.png, Bike_34934983110577096.png, Bus14288583103896912.png, and tractro_27116670418271906.png    
-
-[cite_start]An "Other" icon: 
-
-Other37109307770094657.png    
+Theme: A custom theme, CY24SU10.json, is part of the project to ensure a consistent color scheme and visual style.
 
 Getting Started
-To use this project, you'll need Power BI Desktop.
+To use this template and create your own report, you will need Power BI Desktop.
 
-Download the file: Clone this repository or download the DATA ANALYSIS.pbit file.
+Download the File: Download the DATA ANALYSIS.pbit file from this repository.
 
-Open in Power BI: Double-click the .pbit file or open it from within Power BI Desktop.
+Open in Power BI Desktop: Double-click the file or open it directly from within Power BI Desktop.
 
-Connect to Data: Power BI will prompt you to connect to the data sources required for the report.
+Connect to Data: Power BI will prompt you to connect to your data source(s). Once connected, the template's queries and visuals will be populated with your data.
